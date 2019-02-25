@@ -1,24 +1,38 @@
-# Soundscape AAX Plug-in
+# d&b Soundscape AAX Console-Plugin for AVID S6L
 
-Copyright (C) 2017-2019, d&b audiotechnik GmbH
+## The d&b Soundscape AAX Console Plug-in enables the AVID S6L Consoles to control En-Scene and En-Space object parameters of any desired sound object on the DS100 Platform directly from the console surface using the OSC protocol.
 
-## What is the Soundscape Plug-in
+The d&b Soundscape AAX Console Plug-in provides a user interface for control but it also includes the standards to store and recall these parameters values with the scene memory of the console
 
-The d&b Soundscape Plug-in allows the positioning of sound objects in a Soundscape system from any Avid S6L console using the OSC protocol.
+The d&b Soundscape AAX Console Plug-in is designed to work with d&b Soundscape and the d&b DS100.
 
-For more information about Soundscape visit www.dbaudio.com or www.dbsoundscape.com.
+For more information about the d&b Soundscape system, go to www.dbaudio.com and www.dbsoundscape.com. 
 
-## Requirements
+## Features 
 
-* d&b DS100 Signal Engine with active En-Scene license.
-* Avid S6L console running VENUE 5.7 or later.
-* d&b Soundscape AAX Plug-in.
+d&b Soundscape integration for AVID S6L via AAX Plug-In 
+to control d&b Soundscape object parameters of any desired sound object 
+directly from the console surface and the console scene memory
 
-## Installation
+Controllable Soundscape Parameters: 
 
-1. Copy the .aaxplugin file into a folder named "AAX Plug-Ins" on an USB memory drive.
-2. Insert the USB drive into one of the S6L console's USB ports.
-3. Ensure that the console is in Configuration mode.
-4. On the S6L console, navigate to the Options > Plug-ins screen.
-5. Select your USB drive from the Device dropdown menu.
-5. Select the d&b Soundscape Plug-in from the list and click on Install.
+En-Scene object parameters: 
+-	X position (absolute or relative to a coordinate mapping) 
+-	Y position (absolute or relative to a coordinate mapping) 
+-	SPREAD
+-	Delay mode 
+En-Space object parameters: 
+-	Reverb send level 
+
+
+## Requirements: 
+
+-	AVID S6L Console with installed AAX Console Plug-in
+-	d&b DS100 Signal Engine with active En-Scene and / or En-Space license. 
+-	DS100 and S6L Console connected to the same Ethernet Network (to establish the OSC communication). 
+
+
+## available Plugin-formats: 
+
+The Plugin is available for the AVID S6L platform in the format: 
+-	64-bit AAX DSP plug-in
