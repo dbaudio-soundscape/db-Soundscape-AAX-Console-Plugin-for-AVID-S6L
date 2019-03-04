@@ -21,6 +21,7 @@ En-Scene object parameters:
 -	Y position (absolute or relative to a coordinate mapping) 
 -	SPREAD
 -	Delay mode 
+
 En-Space object parameters: 
 -	Reverb send level 
 
