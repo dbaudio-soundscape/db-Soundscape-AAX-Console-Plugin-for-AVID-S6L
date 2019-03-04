@@ -14,12 +14,9 @@ Copyright (C) 2017-2019, d&b audiotechnik GmbH
 * Overview table is now supported as an overlay for Console-Version
 * Tx and Rx buttons now also offered for Console-version
 
-
-
 ### Bugfixes
 
 * Setting delay mode to "Tight" in R1 no longer shows as "Full" on the Plug-in
-
 
 ### Known issues
 
