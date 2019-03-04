@@ -1,0 +1,32 @@
+# Release notes for d&b Soundscape AAX-Console-Plugins for AVID S6L
+
+Copyright (C) 2017-2019, d&b audiotechnik GmbH
+
+* "Features" are newly implemented features (or parts of) with the corresponding release
+* "Bugfixes" are newly fixed bugs with the corresponding release
+* "Know issues" are issues (inconveniences or bugs) known to exist in the corresponding release
+
+## V2.6.0
+
+### Features
+
+* New automation parameter "OSCBypass"
+* Overview table is now supported as an overlay for Console-Version
+* Tx and Rx buttons now also offered for Console-version
+
+
+
+### Bugfixes
+
+* Setting delay mode to "Tight" in R1 no longer shows as "Full" on the Plug-in
+
+
+### Known issues
+
+* 
+
+
+
+## V2.3.0
+
+* Initial release
