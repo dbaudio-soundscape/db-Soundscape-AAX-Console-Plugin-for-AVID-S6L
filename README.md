@@ -1,5 +1,7 @@
 # d&b Soundscape AAX Console-Plugin for AVID S6L
 
+By downloading software from this site, you agree to the terms and conditions described in the End-User License Agreement (provided with EULA.txt). If you do not agree with such terms and conditions do not download the software.
+
 ## The d&b Soundscape AAX Console Plug-in enables the AVID S6L Consoles to control En-Scene and En-Space object parameters of any desired sound object on the DS100 Platform directly from the console surface using the OSC protocol.
 
 The d&b Soundscape AAX Console Plug-in provides a user interface for control but it also includes the standards to store and recall these parameters values with the scene memory of the console

@@ -1,10 +1,21 @@
 # Release notes for d&b Soundscape AAX-Console-Plugins for AVID S6L
 
-Copyright (C) 2017-2019, d&b audiotechnik GmbH
+Copyright (C) 2017-2019, d&b audiotechnik GmbH & Co. KG
 
 * "Features" are newly implemented features (or parts of) with the corresponding release
 * "Bugfixes" are newly fixed bugs with the corresponding release
 * "Know issues" are issues (inconveniences or bugs) known to exist in the corresponding release
+
+
+## V2.6.1
+
+### Features
+* Added support for Touch automation via OSC
+
+### Known issues
+* Manual is still not updated, but should help nevertheless
+
+
 
 ## V2.6.0
 
