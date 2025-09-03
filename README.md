@@ -1,8 +1,10 @@
 # d&b Soundscape Plug-in
 
-Copyright (C) 2017-2020, d&b audiotechnik GmbH & Co. KG
+Copyright (C) 2017-2025, d&b audiotechnik GmbH & Co. KG
 
 By downloading software from this site, you agree to the terms and conditions described in the [End-User License Agreement](EULA.md). If you do not agree with such terms and conditions do not download the software.
+
+## Please note that this repository is no longer maintained. 
 
 ## Latest binaries can be downloaded here: [LATEST RELEASE](../../releases/latest)
 
@@ -199,11 +201,8 @@ The settings at the bottom of the Plug-in's interface are global and are shared 
 
 ### Known Issues
 
-#### Reaper: Automation envelopes can only be recorded when the Plug-in's GUI window is open.
-
-* The only current workaround is to leave all Plug-in windows open when recording envelopes.
-
 #### Avid S6L: Input and Mapping do not change reliably when loading showfiles or snapshots.
 
 * This can occur when only Input or Mapping have changed, but all other parameters (such as X/Y, Spread, etc.) in the showfile or snapshot being loaded are identical to the current values.
 * When storing a showfile or snapshot after having only changed the Input or Mapping, nudge one of the other parameters to ensure that a change is registered when loading it later.
+	
